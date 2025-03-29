@@ -55,11 +55,11 @@ East start the game. Check if wants to declair mahjong or Riichi(see Riichi stat
 
 ### Pure One Suit – 2 Points
 **Hand:** <span style="font-size: 2em">🀐🀐🀐 🀑🀑🀑 🀒🀒🀒 🀓🀔🀕 🀕🀕</span>  
-**Description:** All tiles are from the Bamboo suit.
+**Description:** All tiles are from one (Bamboo in the example) suit.
 
 ### All Pung – 3 Points
 **Hand:** <span style="font-size: 2em">🀇🀇🀇 🀓🀓🀓 🀄🀄🀄 🀑🀑🀑 🀕🀕</span>  
-**Description:** Four pungs and a pair, characters and bamboo suits.
+**Description:** Four pungs and a pair.
 
 ### All Winds & Dragons – 16 Points
 **Hand:** <span style="font-size: 2em">🀀🀀🀀 🀁🀁🀁 🀂🀂🀂 🀃🀃🀃 🀄🀄</span>  
@@ -71,19 +71,19 @@ East start the game. Check if wants to declair mahjong or Riichi(see Riichi stat
 
 ### Matching Wind Pung – 1 Point per Set
 **Hand:** <span style="font-size: 2em">🀀🀀🀀 🀁🀁🀁 🀙🀙🀙 🀕🀕🀕 🀘🀘</span>  
-**Description:** 🀀 (East) is seat wind.
+**Description:** You have a pung from your seat's actual wind.(East in the example.)
 
 ### Any Dragon Pung – 1 Point per Set
 **Hand:** <span style="font-size: 2em">🀄🀄🀄 🀅🀅🀅 🀓🀓🀓 🀔🀔🀔 🀕🀕</span>  
-**Description:** Red and Green Dragon pungs.
+**Description:** Any dragon pung.
 
 ### Small Three Winds – 2 Points
 **Hand:** <span style="font-size: 2em">🀀🀀🀀 🀁🀁🀁 🀂🀂 🀐🀐🀐 🀙🀙</span>  
-**Description:** Two Wind pungs and a pair of the third wind.
+**Description:** Two Wind pungs and a pair of a third wind.
 
 ### Small Three Dragons – 2 Points
 **Hand:** <span style="font-size: 2em">🀄🀄🀄 🀅🀅🀅 🀆🀆 🀓🀓🀓 🀕🀕</span>  
-**Description:** Two dragon pungs and a pair of the third.
+**Description:** Two dragon pungs and a pair of a third.
 
 ### Big Three Winds – 6 Points
 **Hand:** <span style="font-size: 2em">🀀🀀🀀 🀁🀁🀁 🀂🀂🀂 🀖🀖🀖 🀘🀘</span>  
@@ -95,11 +95,11 @@ East start the game. Check if wants to declair mahjong or Riichi(see Riichi stat
 
 ### Small Four Winds – 12 Points
 **Hand:** <span style="font-size: 2em">🀀🀀🀀 🀁🀁🀁 🀂🀂🀂 🀃🀃 🀓🀓🀓</span>  
-**Description:** Three Wind pungs and a pair of the fourth.
+**Description:** Three wind pungs and a pair of the fourth.
 
 ### Big Four Winds – 20 Points
 **Hand:** <span style="font-size: 2em">🀀🀀🀀 🀁🀁🀁 🀂🀂🀂 🀃🀃🀃 🀓🀓</span>  
-**Description:** Four Wind pungs.
+**Description:** Four wind pungs.
 
 ---
 
@@ -107,19 +107,19 @@ East start the game. Check if wants to declair mahjong or Riichi(see Riichi stat
 
 ### 7 Pairs – 3 Points
 **Hand:** <span style="font-size: 2em">🀇🀇 🀐🀐 🀊🀊 🀅🀅 🀘🀘 🀈🀈 🀓🀓</span>  
-**Description:** Seven unique pairs, characters and bamboo suits.
+**Description:** Seven unique pairs from any kind of tiles.
 
 ### Hidden Treasure – 5 Points
 **Hand:** <span style="font-size: 2em">🀓🀓🀓 🀑🀑🀑 🀄🀄🀄 🀁🀁🀁 🀘🀘</span>  
-**Description:** All pungs concealed, Self-Pick win, bamboo and wind tiles.
+**Description:** All pungs in your hand are concealed, and it needs to be a Self-Pick win.
 
 ### All Kong – 24 Points
 **Hand:** <span style="font-size: 2em">🀇🀇🀇🀇 🀑🀑🀑🀑 🀄🀄🀄🀄 🀙🀙🀙🀙 🀋🀋</span>  
-**Description:** Four kongs and a pair, characters and bamboo suits.
+**Description:** Four kongs and a pair.
 
 ### Nine Gates – 24 Points
 **Hand:** <span style="font-size: 2em">🀊🀊🀊 🀋🀋 🀌 🀍 🀎 🀏🀏 🀐🀐 🀑🀑</span>  
-**Description:** 1112345678999 plus any tile to complete pair, all concealed, dots and bamboo.
+**Description:** 1112345678999 plus any pair to complete the hand, all concealed.
 
 ## Going Out bonuses
 
@@ -127,13 +127,13 @@ East start the game. Check if wants to declair mahjong or Riichi(see Riichi stat
 Winning by drawing the final tile yourself from the wall.
 
 ### Going out on Kong replacement – 2 Points
-Winning with a replacement tile after declaring a kong (includes Self-Pick).
+Winning with a replacement tile after declaring a Kong (includes the point from Self-Pick bonus).
 
 ### Robbing The Kong – 1 Points
 Winning by taking the tile someone tries to add to a pung to make a kong.
 
 ### Concealed Hand – 1 Points
-Winning with no exposed melds (concealed kongs allowed, discard win allowed).
+Winning with no exposed melds(only concealed kongs and pungs are allowed, discard win allowed).
 
 ## Special states and points
 
