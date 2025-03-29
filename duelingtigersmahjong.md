@@ -8,6 +8,12 @@ Furiten is part of the game(details in the Special states and points section bel
 
 At the beginning of the game the players roll one dice. The palyer rolled the bigger number will be East(ot he dealer) in the a first round and the other player is West. East chooses a suit. Take out all the tile from this suit but keep the close and separated in a sack or faced down, mixed. The will have special role in the game.
 
+## Matches and points
+
+1. A match is four or eight rounds(every player is East at least two or four times). At the end of the match the player having more points wins. 
+
+2. In another variant players starts with 30 points. The match also can end if a player loses all of its points.
+
 ## **Setup**
 
 1. Choose any classic or homebrew rituals to build and break the wall. At the start of the round East needs to have 14 tiles in hand, West needs 13 and the dummy also needs 13 tiles but faced down.
