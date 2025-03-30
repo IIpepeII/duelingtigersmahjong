@@ -138,7 +138,7 @@ Winning with no exposed melds(only concealed kongs and pungs are allowed, discar
 ## Special states and points
 
 ### Riichi declaration and state – 2 Points
-You can declare Riichi only with totally a closed hand(no melded pungs and only concealed kongs are allowed). From this point onward the player is essentially playing on autopilot, and they cannot change their hand in any way.
+You can declare Riichi(Say it out loud! - "Riichi!") only with totally a closed hand(no melded pungs and only concealed kongs are allowed). From this point onward the player is essentially playing on autopilot, and they cannot change their hand in any way.
 
 After declaring Riichi, that player is only allowed to draw new tiles, check if it's a winning tile and if not, discard that tile. The hand remains closed till the end of the game. If a player finds their last tile, they declare "Zi Mo(cantonese) or Tsumo(japanese)" and win or you can declare Hu or Ron(mahjong on the other player or the dummy side's discard). The player who declared Riichi can win by robbing the last revealed tile in the dummy's hand. This is the only possible way to use those tiles in the game.
 
